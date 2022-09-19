@@ -1,7 +1,4 @@
-# personal  
-Space for person description and resume  
-
-## Repository Information  
+# Repository Information  
 
 This repository contains my resume. Portfolio contents can be found in separate repositories under this account. 
 
